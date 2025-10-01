@@ -39,9 +39,8 @@ Analysis of hospitality dataset using SQL, Excel, and Tableau/Power BI
 
 4. SQL Queries
 
-       All SQL queries used to generate the above KPIs are included in the SQL_Queries/ folder:
-
-
+    * All SQL queries used to generate the above KPIs are included in the SQL_Queries/ folder:
+      https://github.com/kazisaniya/Hospitality-Data-Analysis/blob/main/Hospitality%20Data%20Analysis%20Queries.sql
 
 
 
