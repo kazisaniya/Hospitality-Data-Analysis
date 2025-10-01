@@ -49,6 +49,7 @@ Analysis of hospitality dataset using SQL, Excel, and Tableau/Power BI
    * The dashboards are created in Power BI, Tableau, and Excel. Screenshots are included in the repository
      https://github.com/kazisaniya/Hospitality-Data-Analysis/blob/main/Hospitality%20Dashboard%20in%20Excel.png
      https://github.com/kazisaniya/Hospitality-Data-Analysis/blob/main/Hospitality%20Dashboard%20in%20Power%20BI.png
+     https://github.com/kazisaniya/Hospitality-Data-Analysis/blob/main/Hospitality%20Dashboard%20in%20Tableau.png
 
 
 
